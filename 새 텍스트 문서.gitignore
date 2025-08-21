@@ -1,0 +1,16 @@
+# Visual Studio 관련 파일 무시
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+*.log
+
+# 빌드 결과물 무시
+Debug/
+Release/
+x64/
+*.exe
+*.dll
+*.obj
+*.pdb
